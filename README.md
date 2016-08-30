@@ -1,5 +1,7 @@
 # Multiplex
 
+![tickets](/priv/static/tickets.png)
+
 [![Build Status](https://travis-ci.org/christopheradams/multiplex.svg?branch=master)](https://travis-ci.org/christopheradams/multiplex)
 [![Hex Version](https://img.shields.io/hexpm/v/multiplex.svg)](https://hex.pm/packages/multiplex)
 
@@ -42,3 +44,5 @@ Add Multiplex to your Phoenix project in two steps:
 ## License
 
 Multiplex copyright &copy; 2016, [Christopher Adams](https://github.com/christopheradams)
+
+tickets CC-by Arthur Lacôte from the Noun Project
