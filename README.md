@@ -38,3 +38,7 @@ Add Multiplex to your Phoenix project in two steps:
       end
     end
     ```
+
+## License
+
+Multiplex copyright &copy; 2016, [Christopher Adams](https://github.com/christopheradams)
