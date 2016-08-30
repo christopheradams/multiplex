@@ -1,5 +1,8 @@
 # Multiplex
 
+[![Build Status](https://travis-ci.org/christopheradams/multiplex.svg?branch=master)](https://travis-ci.org/christopheradams/multiplex)
+[![Hex Version](https://img.shields.io/hexpm/v/multiplex.svg)](https://hex.pm/packages/multiplex)
+
 Phoenix router macro to dispatch multiple HTTP methods to a Plug
 
 The package adds a `mux` macro to your router to match one or more
